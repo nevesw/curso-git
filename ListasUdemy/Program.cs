@@ -29,7 +29,7 @@ namespace ListasUdemy
             string search = listaLinhasArquivo.Find(Procura);
 
             Console.WriteLine(search);
-
+            Console.WriteLine("output");
 
                   Console.Read();
         }
